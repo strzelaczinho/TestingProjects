@@ -10,7 +10,7 @@
 <project name="PRACTICE_SCHOOL" default="default" basedir=".">
     <description>Builds, tests, and runs the project PRACTICE_SCHOOL.</description>
     <import file="nbproject/build-impl.xml"/>
-    <!-- Sprawdzam tresc commmita
+    <!-- Sprawdzam tresc commmita po raz ostatni mam anzdieje
 
     There exist several targets which are by default empty and which can be 
     used for execution of your tasks. These targets are usually executed 
